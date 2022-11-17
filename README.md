@@ -13,6 +13,18 @@ def even_odd(number):
 
 <h1><code> Day 01 </code></h1>
 
+<ol>
+  
+  <li> 1. Transforms</li>
+   <li> 1. Transforms</li>
+   <li> 1. Transforms</li>
+   <li> 1. Transforms</li>
+   <li> 1. Transforms</li>
+   <li> 1. Transforms</li>
+  
+
+</ol>
+
 ``` python
 
 import torch
