@@ -11,7 +11,7 @@ def even_odd(number):
    
   ```
 
-<h1><code> Transforms </code></h1>
+<h1><code> Day 01 </code></h1>
 
 ``` python
 
